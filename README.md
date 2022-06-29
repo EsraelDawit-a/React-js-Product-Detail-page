@@ -1,2 +1,2 @@
-# React-Blog
- Blogging site Made with React
+# React-Product Detail Page
+product detail site Made with React
